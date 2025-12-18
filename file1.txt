@@ -2,3 +2,4 @@ this is my first file - first line updated
 this is my first file - updated by branch
 
 updated in branch b1
+this is branch b2
